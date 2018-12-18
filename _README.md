@@ -104,6 +104,7 @@ Below these options, you'll see options for each typographical element used in t
 
 **Advanced options**
 
+`ajax_loading` – use `true` to enable Ajax loading throughout your site. Use `false` to disable it and load pages normally – this can be helpful if you're adding plugins or other javascript to your pages.
 `analytics_code` – use this option to add your Google Analytics code.
 `custom_styles` – use this option to add custom CSS styles to the theme.
 `header_js` – use this option to insert javascript into the header of the page.
