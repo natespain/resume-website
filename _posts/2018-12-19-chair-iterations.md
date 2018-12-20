@@ -1,6 +1,6 @@
 ---
-title: Chair iterations
-date: 2018-11-18 00:00:00
+title: 'Chair iterations'
+date: 2018-12-19 00:00:00
 featured_image: '/images/posts/blog-tile.png'
 ---
 
