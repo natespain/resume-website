@@ -6,9 +6,7 @@ featured_image: '/images/posts/blog-tile.png'
 
 Overall, my second month was chaotic in life, but fairly productive in school. I focused on creating an asset library of chairs and this proved to be fruitful in a couple of ways. One, it made me sit down and draw on a regular basis no matter what else was happening. And two, I now have a lot of material to work with—the trick is figuring out what to do with it.
 
-The first month I began creating some screen prints of chair compositions and this month
-I want to complete that idea in order to move on to something else. Silas talked about how I’ve figured out the who, what, and when of my focus of study - but I’ve yet to land on
-the why. That is worth exploring more and I plan on doing that.
+The first month I began creating some screen prints of chair compositions and this month I want to complete that idea in order to move on to something else. Silas talked about how I’ve figured out the who, what, and when of my focus of study - but I’ve yet to land on the why. That is worth exploring more and I plan on doing that.
 
 The first project I plan to start and make progress on in month three is an online archive of my chair drawings. We talked about sorting them in the expected ways of designer, material, and date. But other ways of sorting like “chairs designed by Bauhaus directors,” or creating a recommendation engine, “If you like Rietveld, you’ll love Eames”. It could be an interesting way to make connections between designers and their work that is a little more interactive and user driven than a poster or zine series.
 
