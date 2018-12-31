@@ -1,6 +1,6 @@
 ---
 title: Reflections after second packet meeting
-date: 2018-11-18 00:00:00
+date: 2018-12-30 00:00:00
 featured_image: '/images/posts/blog-tile.png'
 ---
 
