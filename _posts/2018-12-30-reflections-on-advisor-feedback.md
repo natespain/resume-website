@@ -17,13 +17,13 @@ Finally, we’ve been talking about the idea of developing a method. This is sti
 ---
 
 Books/things to look at:
-- Letterform Archive  |   https://letterformarchive.org/ (become a member)
-- Graphic Design / Now in Production  |  Andrew Blauvelt, Ellen Lupton
-- The Bauhaus Group  |  Nicolas Fox Weber
-- Bauhaus  |  Hans Maria Wingler (art direction by Muriel Cooper)
-- Bauhaus: 1919–1933: Workshops for Modernity  |  MoMA
+- Letterform Archive—https://letterformarchive.org/ (become a member)
+- Graphic Design / Now in Production—Andrew Blauvelt, Ellen Lupton
+- The Bauhaus Group—Nicolas Fox Weber
+- Bauhaus—Hans Maria Wingler (art direction by Muriel Cooper)
+- Bauhaus: 1919–1933: Workshops for Modernity—MoMA
 - Josh Davis
-- Nicolas Felton - look at Skillshare Class
+- Nicolas Felton—look at Skillshare Class
 - “Weird Type” app
 - Dia Studio (dia.tv). Mitch Paone
 - Zack Lieberman - school for poetic computation
