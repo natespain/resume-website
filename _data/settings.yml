@@ -1,9 +1,9 @@
 basic_settings:
-  site_title: Natespain
+  site_title: Nathan Spainhour
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image:
+  logo_image: 
   logo_width: 200
 
 menu_settings:
@@ -48,9 +48,12 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Merriweather|Open+Sans" rel="stylesheet">'
-  title_font: '"Merriweather", serif;'
-  body_font: '"Open Sans", sans-serif;'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">'
+  # font_embed: '<link href="https://fonts.googleapis.com/css?family=Merriweather|Open+Sans" rel="stylesheet">'
+  # title_font: '"Merriweather", serif;'
+  # body_font: '"Open Sans", sans-serif;'
+  title_font: '"Fira Sans", serif;'
+  body_font: '"Fira Sans", sans-serif;'
   regular_weight: 400
   bold_weight: 600
   site_title:
