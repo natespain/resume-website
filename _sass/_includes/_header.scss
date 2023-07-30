@@ -46,6 +46,7 @@
 	letter-spacing: $sitetitle-spacing;
 	line-height: 1;
 	color: $text-dark-color;
+	text-transform: uppercase;
 
 	&:hover {
 		color: $accent-color;

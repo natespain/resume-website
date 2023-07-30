@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Nathan Spainhour
-description: Duet includes a simple blog with pagination.
+title: A beautiful two-column Jekyll theme
+description: A beautiful, minimal two-column portfolio theme built for Jekyll. Duet makes your work look simply awesome.
 featured_image: /images/social.jpg
 ---
 
@@ -9,59 +9,40 @@ featured_image: /images/social.jpg
 
 	<div class="wrap">
 
-		<h1>Hello hello.</h1>
-		<p>Take a look below to see what I've been up to lately.</p>
+		<h1>Ever-curious creative leader, UX strategist, teacher, photographer, and map lover.</h1>
+		<p><a href="/contact.html">Drop me a line</a>, I'm always happy to chat.</p>
 
 	</div>
 
 </section>
 
-<section class="blog">
+<section class="portfolio">
 
-	<div class="content-wrap blog-wrap">
+	<div class="content-wrap portfolio-wrap">
 
-		{% for post in paginator.posts %}
+		{% for project in site.projects reversed %}
 
-		<article class="blog-post">
+		<div class="portfolio-item">
 
-			<a class="blog-post__link" href="{{ post.url }}">
+			<a class="portfolio-item__link" href="{{ project.url }}">
 
-				<div class="blog-post__image">
-					<img src="{{ post.featured_image  }}" alt="{{ post.title }}">
+				<div class="portfolio-item__image">
+					<img src="{{ project.featured_image  }}" alt="{{ project.title }}">
 				</div>
 
-				<div class="blog-post__content">
-					<div class="blog-post__info">
-						<h2 class="blog-post__title">{{ post.title }}</h2>
-						<p class="blog-post__subtitle">{{ post.date | date_to_long_string }}</p>
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{ project.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
 					</div>
 				</div>
 
 			</a>
 
-		</article>
+		</div>
 
 		{% endfor %}
 
 	</div>
 
 </section>
-
-{% if paginator.total_pages > 1 %}
-
-<section class="pagination">
-
-	<div class="wrap">
-
-		{% if paginator.previous_page %}
-		<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="button button--light pagination__prev"><i class="fa fa-angle-left" aria-hidden="true"></i> <span>Newer Posts</span></a>
-		{% endif %}
-		{% if paginator.next_page %}
-		<a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="button button--light pagination__next"><span>Older Posts</span> <i class="fa fa-angle-right" aria-hidden="true"></i></a>
-		{% endif %}
-
-	</div>
-
-</section>
-
-{% endif %}
