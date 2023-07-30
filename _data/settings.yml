@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Nathan Spainhour
-  favicon_image: /images/favicon.png
+  favicon_image: /images/favicon.ico
 
 header_settings:
   logo_image: 
