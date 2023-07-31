@@ -144,6 +144,19 @@ font_settings:
 
 advanced_settings:
   analytics_code: ""
-  custom_styles: ""
+  custom_styles: "
+  .credits {
+    font-size: 1rem;
+    color: #999;
+  }
+  .credits a{
+    color: #999;
+    border: none !important;
+  }
+  .credits a:hover{
+    color: #333;
+    border-bottom: 2px solid #F2784B !important;
+  }
+  "
   header_js: ""
   footer_js: ""
