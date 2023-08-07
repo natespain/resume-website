@@ -8,9 +8,9 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Work'
+    - title: 'My Work'
       url: '/'
-    - title: 'Blog'
+    - title: 'Student Work'
       url: '/blog/'
     - title: 'Info'
       url: '/info/'
@@ -44,8 +44,9 @@ color_settings:
   text_light_color: '#ABB7B7'
   accent_color: '#F2784B'
   border_color: '#dddddd'
-  overlay_background_color: '#F2784B'
-  overlay_text_color: '#ffffff'
+  #overlay_background_color: '#F2784B'
+  overlay_background_color: '#FFFFFF'
+  overlay_text_color: '#2A2F36'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
 
@@ -59,7 +60,7 @@ font_settings:
   regular_weight: 200
   bold_weight: 700
   site_title:
-    small_size: 30
+    small_size: 17
     medium_size: 15
     large_size: 17
     weight: 700
@@ -156,6 +157,9 @@ advanced_settings:
   .credits a:hover{
     color: #333;
     border-bottom: 2px solid #F2784B !important;
+  }
+  .portfolio-item__content{
+    padding: 0 80px 0;
   }
   "
   header_js: ""

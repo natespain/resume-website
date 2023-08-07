@@ -9,6 +9,11 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Demo content
 
+```html
+cd Documents/Personal/Websites/portfolio-2023
+bundle exec jekyll serve
+```
+
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
