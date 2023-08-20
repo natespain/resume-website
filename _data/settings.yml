@@ -46,7 +46,8 @@ color_settings:
   border_color: '#dddddd'
   #overlay_background_color: '#F2784B'
   overlay_background_color: '#FFFFFF'
-  overlay_text_color: '#2A2F36'
+  #overlay_text_color: '#2A2F36'
+  overlay_text_color: '#333333'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
 
