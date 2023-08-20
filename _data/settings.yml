@@ -162,6 +162,21 @@ advanced_settings:
   .portfolio-item__content{
     padding: 0 80px 0;
   }
+  .gallery--carousel .owl-dot{
+    display: none !important;
+  }
+  .gallery--carousel .owl-nav{
+    display: block !important;
+    position: absolute !important;
+    width: 100% !important;
+    top: 48% !important;
+  }
+  .gallery--carousel .owl-prev{
+    float: left;
+  }
+  .gallery--carousel .owl-next{
+    float: right;
+  }
   "
   header_js: ""
   footer_js: ""

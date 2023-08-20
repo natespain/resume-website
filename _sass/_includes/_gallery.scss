@@ -59,8 +59,7 @@
 	}
 
 	.owl-nav {
-/*		display: none;*/
-display: inline-block;
+		display: none;
 	}
 
 	.owl-dots {
@@ -68,8 +67,7 @@ display: inline-block;
 		text-align: center;
 
 		.owl-dot {
-			display: none;
-/*			display: inline-block;*/
+			display: inline-block;
 			margin: 0 3px;
 			width: 12px;
 			height: 12px;
