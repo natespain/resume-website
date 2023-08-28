@@ -1,19 +1,19 @@
 basic_settings:
-  site_title: Natespain
-  favicon_image: /images/favicon.png
+  site_title: Nathan Spainhour
+  favicon_image: /images/favicon.ico
 
 header_settings:
-  logo_image:
+  logo_image: 
   logo_width: 200
 
 menu_settings:
   menu_items:
-    - title: 'Blog'
+    - title: 'Work'
       url: '/'
-    - title: 'About'
-      url: '/about'
+    - title: 'Info'
+      url: '/info/'
     - title: 'Contact'
-      url: '/contact'
+      url: '/contact/'
 
 footer_settings:
   logo_image:
@@ -25,14 +25,14 @@ grid_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: 'https://formspree.io/nathan.spainhour@gmail.com'
+  form_action: 'https://formspree.io/f/nathan.spainhour@gmail.com'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
 
 social_settings:
-  twitter_url: 'https://twitter.com/nathanspainhour'
-  instagram_url: 'https://www.instagram.com/natespain/'
+  # twitter_url: 'https://twitter.com/nathanspainhour'
+  # instagram_url: 'https://www.instagram.com/natespain/'
 
 color_settings:
   background_color: '#ffffff'
@@ -42,23 +42,28 @@ color_settings:
   text_light_color: '#ABB7B7'
   accent_color: '#F2784B'
   border_color: '#dddddd'
-  overlay_background_color: '#F2784B'
-  overlay_text_color: '#ffffff'
+  #overlay_background_color: '#F2784B'
+  overlay_background_color: '#FFFFFF'
+  #overlay_text_color: '#2A2F36'
+  overlay_text_color: '#333333'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Merriweather|Open+Sans" rel="stylesheet">'
-  title_font: '"Merriweather", serif;'
-  body_font: '"Open Sans", sans-serif;'
-  regular_weight: 400
-  bold_weight: 600
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">'
+  # font_embed: '<link href="https://fonts.googleapis.com/css?family=Merriweather|Open+Sans" rel="stylesheet">'
+  # title_font: '"Merriweather", serif;'
+  # body_font: '"Open Sans", sans-serif;'
+  title_font: '"Fira Sans", serif;'
+  body_font: '"Fira Sans", sans-serif;'
+  regular_weight: 200
+  bold_weight: 700
   site_title:
-    small_size: 25
-    medium_size: 30
-    large_size: 35
+    small_size: 17
+    medium_size: 15
+    large_size: 17
     weight: 700
-    letter_spacing: -0.02
+    letter_spacing: .1
   menu:
     small_size: 30
     medium_size: 15
@@ -81,7 +86,7 @@ font_settings:
     small_size: 25
     medium_size: 35
     large_size: 45
-    weight: 700
+    weight: 200
     letter_spacing: -0.02
     line_height: 1.2
   h2:
@@ -139,6 +144,41 @@ font_settings:
 
 advanced_settings:
   analytics_code: ""
-  custom_styles: ""
+  custom_styles: "
+  body {
+    max-width:1800px;
+    margin: 0 auto;
+  }
+  .credits {
+    font-size: 1rem;
+    color: #999;
+  }
+  .credits a{
+    color: #999;
+    border: none !important;
+  }
+  .credits a:hover{
+    color: #333;
+    border-bottom: 2px solid #F2784B !important;
+  }
+  .portfolio-item__content{
+    padding: 0 80px 0;
+  }
+  .gallery--carousel .owl-dot{
+    display: none !important;
+  }
+  .gallery--carousel .owl-nav{
+    display: block !important;
+    position: absolute !important;
+    width: 100% !important;
+    top: 48% !important;
+  }
+  .gallery--carousel .owl-prev{
+    float: left;
+  }
+  .gallery--carousel .owl-next{
+    float: right;
+  }
+  "
   header_js: ""
   footer_js: ""

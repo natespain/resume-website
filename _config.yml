@@ -1,4 +1,4 @@
-site: Natespain
+site: Nathan Spainhour
 
 collections:
   pages:
@@ -8,8 +8,8 @@ collections:
     output: true
     permalink: /posts/:slug
   projects:
-    output: false
-    permalink: /project/:slug
+    output: true
+    permalink: /work/:slug
 
 defaults:
   -
