@@ -4,7 +4,7 @@ description: Nathan Spainhour | Creative consultant
 subtitle: I am an experienced creative director, UX strategist, and brand director known for my leadership abilities in both in-house and agency settings. I'm able to spearhead brand creative initiatives that encompass the development of brand identity and standards, as well as the design of desktop and mobile interfaces, packaging, and environmental projects.
 ---
 
-![]({{"/images/info/nathan-at-desk.jpg" | absolute_url }}
+![]({{"/images/info/nathan-at-desk.jpg" | absolute_url }})
 
 ## Specialties:
 * Creative and Brand Strategy

@@ -9,7 +9,7 @@ collections:
     permalink: /posts/:slug
   projects:
     output: true
-    permalink: /work/:slug
+    permalink: {{ '/work/:slug' | relative_url }}
 
 defaults:
   -

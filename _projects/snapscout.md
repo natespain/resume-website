@@ -5,7 +5,7 @@ date: 2018-06-30 00:00:00
 featured_image: '/images/snapscout/snapscout_main_image.jpg'
 ---
 
-![]({{"/images/snapscout/snapscout_main_image.jpg | absolute_url }}
+![]({{"/images/snapscout/snapscout_main_image.jpg | absolute_url }})
 
 Snapscout is a location scouting app for photographers, and anyone else that may want to save the locations of great shots. I wanted the name to be self-evident. In a marketplace where app findability is governed by Google and App Store searches, it's always a good idea to convey what the app does in the name itself. 
 
