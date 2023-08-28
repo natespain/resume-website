@@ -5,7 +5,7 @@ date: 2018-06-30 00:00:00
 featured_image: '/images/wood-smoke-and-fire/wood-smoke-and-fire.jpg'
 ---
 
-![]({{ site.url }}/images/wood-smoke-and-fire/thesis_1.jpg)
+![]({{"/images/wood-smoke-and-fire/thesis_1.jpg | absolute_url }}
 
 This multi-part series of books is the thesis I produced when I was earning my MFA. Through personal experiences, research, interviews, and practice, the work showcases regional similarities and differences through the different forms of visual language that are pervasive across the state to define the barbecue cuisine in South Carolina. I documented my own excursions to find these institutions and demonstrate ways that memory intersects with place and identity. All the while looking – through the lens of visual ephemera and vernacular – into a culture that mirrors the greater story being told about ourselves and where we come from. 
 

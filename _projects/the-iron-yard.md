@@ -5,7 +5,7 @@ date: 2018-06-30 00:00:00
 featured_image: '/images/the-iron-yard/the-iron-yard_thumb.jpg'
 ---
 
-![]({{ site.url }}/images/the-iron-yard/TIY-1.jpg)
+![]({{"/images/the-iron-yard/TIY-1.jpg | absolute_url }}
 
 ## Consistency in execution
 
