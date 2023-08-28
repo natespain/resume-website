@@ -1,6 +1,6 @@
 ---
 title: 'Work worth talking about'
-subtitle: 'Various identities, campaigns, and events'
+subtitle: 'Various identities, campaigns, and events.'
 date: 2018-06-30 00:00:00
 featured_image: '/images/misc/work-16.jpg'
 ---
