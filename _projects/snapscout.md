@@ -2,7 +2,7 @@
 title: 'Snapscout mobile app prototype'
 subtitle: 'An app that keeps track of the locations that you want to shoot.'
 date: 2018-06-30 00:00:00
-featured_image: '/images/snapscout/snapscout_main_image.jpg'
+featured_image: 'images/snapscout/snapscout_main_image.jpg'
 ---
 
 ![](/images/snapscout/snapscout_main_image.jpg)

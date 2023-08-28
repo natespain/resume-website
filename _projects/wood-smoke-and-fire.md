@@ -2,7 +2,7 @@
 title: 'Wood, Smoke & Fire'
 subtitle: 'A love letter to barbecue in South Carolina.'
 date: 2018-06-30 00:00:00
-featured_image: '/images/wood-smoke-and-fire/wood-smoke-and-fire.jpg'
+featured_image: 'images/wood-smoke-and-fire/wood-smoke-and-fire.jpg'
 ---
 
 ![](/images/wood-smoke-and-fire/thesis_1.jpg)

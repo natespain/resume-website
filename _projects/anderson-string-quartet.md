@@ -2,7 +2,7 @@
 title: 'Anderson String Quartet'
 subtitle: 'Brand identity that reflects over 50 years of regional distinction.'
 date: 2018-06-30 00:00:00
-featured_image: '/images/asq/asq-identity_thumb.jpg'
+featured_image: 'images/asq/asq-identity_thumb.jpg'
 ---
 
 ![](/images/asq/asq-identity_1.jpg)

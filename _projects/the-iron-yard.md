@@ -2,7 +2,7 @@
 title: 'The Iron Yard brand'
 subtitle: 'Developing a consistent brand experience for a growing code school startup.'
 date: 2018-06-30 00:00:00
-featured_image: '/images/the-iron-yard/the-iron-yard_thumb.jpg'
+featured_image: 'images/the-iron-yard/the-iron-yard_thumb.jpg'
 ---
 
 ![](/images/the-iron-yard/TIY-1.jpg)

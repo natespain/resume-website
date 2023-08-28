@@ -3,13 +3,13 @@ site: Nathan Spainhour
 collections:
   pages:
     output: true
-    permalink: /:name
+    permalink: :name
   posts:
     output: false
-    permalink: /posts/:slug
+    permalink: posts/:slug
   projects:
     output: true
-    permalink: /work/:slug
+    permalink: work/:slug
 
 defaults:
   -
