@@ -5,7 +5,7 @@ date: 2018-06-30 00:00:00
 featured_image: '/images/scsa-ad/SCSA-brochure.jpg'
 ---
 
-![](/images/scsa-ad/SCSA-brochure.jpg)
+![]({{ site.url }}/images/scsa-ad/SCSA-brochure.jpg)
 
 Anderson University (Anderson, SC) is the largest private school in the state of South Carolina, and their South Carolina School of the Arts (SCSA) has one of the finest Art and Design departments in the region. When I began teaching in the Department of Art and Design, we took it upon ourselves to help kick start a recruitment campaign. We surveyed current students and faculty in order to get a strong understanding of the audiences we were going to communicate to. We also did extensive research into competitor schools and aspirational programs. This project showcases a few of the touch points that were created to showcase the department to potential students. What is not shown is the comprehensive campaign encompassing developing ties with local high school teachers, student run social channels, and departmental events designed for building awareness.
 

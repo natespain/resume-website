@@ -5,7 +5,7 @@ date: 2018-06-30 00:00:00
 featured_image: '/images/asq/asq-identity_thumb.jpg'
 ---
 
-![](/images/asq/asq-identity_1.jpg)
+![]({{ site.url }}/images/asq/asq-identity_1.jpg)
 
 The Anderson String Quartet has been a staple in the upstate of South Carolina and northeast Georgia since 1972. They play for weddings, church services, and special events. The quartet was looking for a new identity that would reflect their classical repertoire
 but also be distinct and long lasting.

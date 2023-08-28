@@ -5,7 +5,7 @@ date: 2018-06-30 00:00:00
 featured_image: '/images/misc/work-16.jpg'
 ---
 
-![](/images/misc/work-16.jpg)
+![]({{ site.url }}/images/misc/work-16.jpg)
 
 This collection of projects showcases a variety of industries, styles, and mediums. All of them have stories, and I’d be happy to talk more about them if you have questions. Enjoy!
 
