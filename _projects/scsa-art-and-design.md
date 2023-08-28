@@ -1,6 +1,6 @@
 ---
 title: 'Dept. of Art + Design'
-subtitle: 'The transformation of an art department.'
+subtitle: 'A new identity for a prestigious department of art and design.'
 date: 2018-06-30 00:00:00
 featured_image: '/images/scsa-ad/SCSA-brochure.jpg'
 ---

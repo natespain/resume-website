@@ -25,6 +25,7 @@ We wanted to make an impression on the 3,000 person team so we went after multip
 
 
 ## Launch video and and future recruiting.
+
 We created a video in collaboration with the head of HR, the CEO, and the COO. The primary purpose of the video was to announce the new Mission and Values initiative. We also shot it in a way that it could be used in recruitment materials as well. It’s shown to every group on new hires in the company, as well as featured on a newly redesigned careers section of the website (below).
 
 <iframe src="https://player.vimeo.com/video/849984223" width="640" height="360" frameborder="0" allowfullscreen></iframe>

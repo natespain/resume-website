@@ -8,10 +8,8 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'My Work'
+    - title: 'Work'
       url: '/'
-    - title: 'Student Work'
-      url: '/blog/'
     - title: 'Info'
       url: '/info/'
     - title: 'Contact'
@@ -27,7 +25,7 @@ grid_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: 'https://formspree.io/nathan.spainhour@gmail.com'
+  form_action: 'https://formspree.io/f/nathan.spainhour@gmail.com'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
@@ -147,6 +145,10 @@ font_settings:
 advanced_settings:
   analytics_code: ""
   custom_styles: "
+  body {
+    max-width:1800px;
+    margin: 0 auto;
+  }
   .credits {
     font-size: 1rem;
     color: #999;
