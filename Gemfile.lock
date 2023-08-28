@@ -27,6 +27,9 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-liquify (0.0.2)
+      liquid (>= 2.5, < 5.0)
+      redcarpet (~> 3.1)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
@@ -47,6 +50,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
+    redcarpet (3.6.0)
     rouge (3.3.0)
     ruby_dep (1.5.0)
     safe_yaml (1.0.4)
@@ -61,8 +65,9 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (= 3.8.4)
+  jekyll-liquify
   jekyll-paginate
   jekyll-sitemap
 
 BUNDLED WITH
-   1.16.1
+   1.17.2
