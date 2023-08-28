@@ -1,5 +1,7 @@
 site: Nathan Spainhour
 
+url: https://natespain.github.io/resume-website/
+
 collections:
   pages:
     output: true
