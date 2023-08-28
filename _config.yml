@@ -5,7 +5,7 @@ collections:
     output: true
     permalink: /:name
   posts:
-    output: true
+    output: false
     permalink: /posts/:slug
   projects:
     output: true
