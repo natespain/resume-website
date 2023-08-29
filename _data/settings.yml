@@ -11,9 +11,9 @@ menu_settings:
     - title: 'Work'
       url: ''{{ site.baseurl }}''
     - title: 'Info'
-      url: '{{ site.baseurl }}/info/'
+      url: ''{{ site.baseurl }}'/info/'
     - title: 'Contact'
-      url: '{{ site.baseurl }}/contact/'
+      url: ''{{ site.baseurl }}'/contact/'
 
 footer_settings:
   logo_image:
