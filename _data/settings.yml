@@ -175,9 +175,19 @@ advanced_settings:
   }
   .gallery--carousel .owl-prev{
     float: left;
+    width: 30px;
+    height: 40px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 0 5px 5px 0;
   }
   .gallery--carousel .owl-next{
     float: right;
+    width: 30px;
+    height: 40px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 5px 0 0 5px;
   }
   "
   header_js: ""
