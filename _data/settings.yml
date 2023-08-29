@@ -11,9 +11,9 @@ menu_settings:
     - title: 'Work'
       url: '/'
     - title: 'Info'
-      url: '/info/'
+      url: '/info'
     - title: 'Contact'
-      url: '/contact/'
+      url: '/contact'
 
 footer_settings:
   logo_image:
