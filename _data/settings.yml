@@ -143,14 +143,7 @@ font_settings:
     letter_spacing: 0
 
 advanced_settings:
-  analytics_code: "<script async src="https://www.googletagmanager.com/gtag/js?id=UA-494531-5"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-494531-5');
-</script>"
+  analytics_code: ""
   custom_styles: "
   body {
     max-width:1800px;
