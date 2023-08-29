@@ -28,7 +28,7 @@ Anderson University (Anderson, SC) is the largest private school in the state of
 	<img src="/images/scsa-ad/SCSA-AD-Web-Comp-1.jpg">
 </div>
 
-<img src="/images/scsa-ad/SCSA-Merch.jpg">
+<img src="/images/scsa-ad/SCSA-merch.jpg">
 
 ---
 
